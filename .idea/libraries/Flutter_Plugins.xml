@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.3.1" />
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.7.1" />
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.2" />
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/map_view-0.0.14" />
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.3.7" />
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-1.0.5" />
+      <root url="file://C:/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
